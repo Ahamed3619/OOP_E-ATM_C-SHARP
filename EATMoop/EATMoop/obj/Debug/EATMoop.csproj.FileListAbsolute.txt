@@ -1,0 +1,6 @@
+E:\190872\EATMoop\EATMoop\bin\Debug\EATMoop.exe.config
+E:\190872\EATMoop\EATMoop\obj\Debug\EATMoop.csprojResolveAssemblyReference.cache
+E:\190872\EATMoop\EATMoop\bin\Debug\EATMoop.exe
+E:\190872\EATMoop\EATMoop\bin\Debug\EATMoop.pdb
+E:\190872\EATMoop\EATMoop\obj\Debug\EATMoop.exe
+E:\190872\EATMoop\EATMoop\obj\Debug\EATMoop.pdb
